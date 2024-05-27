@@ -1,0 +1,5 @@
+
+In oder to get cluster info, type :
+
+aws eks update-kubeconfig --name EKS_CLOUD --region eu-west-3
+kubectl get nodes
